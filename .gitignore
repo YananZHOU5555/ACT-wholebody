@@ -41,3 +41,7 @@ datasets/
 
 # Cache directories
 .cache/
+ACT-wholebody/checkpoint/
+ACT-wholebody/data/
+venv/
+__pycache__/
